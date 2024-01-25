@@ -1,0 +1,15 @@
+{
+	"name": "joud-example",
+	"version": "0.0.1",
+	"private": true,
+	"scripts": {
+		"build": "joud build",
+		"preview": "zenn preview"
+	},
+	"devDependencies": {
+    "joud": "0.0.1",
+    "zenn-cli": "^0.1.151",
+		"typescript": "^5.0.0"
+	},
+	"type": "module"
+}
